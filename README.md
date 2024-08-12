@@ -47,3 +47,7 @@ For businesses, understanding website uptime is crucial. Down-Today’s historic
 In summary, Down-Today is an invaluable tool for anyone looking to monitor website statuses effectively. With its real-time updates, user-driven reports, and comprehensive history, it empowers users to stay informed and connected. Whether you’re a casual user or a business owner, Down-Today can help you navigate the complexities of the online world with confidence.
 
 Visit [Down-Today](https://down-today.com/) today and experience the peace of mind that comes with knowing the status of your favorite websites!
+
+## External Links
+
+[@substack](https://downtoday.substack.com/)
