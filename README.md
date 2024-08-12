@@ -53,3 +53,4 @@ Visit [Down-Today](https://down-today.com/) today and experience the peace of mi
 [@substack](https://downtoday.substack.com/)
 [@iuu](https://iuu.ai/tool/down-today)
 [@dokeyAI](https://dokeyai.com/item/down-today-com)
+[@ck.page](https://down-today.ck.page/)
